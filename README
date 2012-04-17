@@ -1,0 +1,5 @@
+Steps:
+1. Edit config.rb.
+2. run 1_create_forums.rb
+3. Bulk upload users.
+4. run 2_create_suggestions.rb
